@@ -7,7 +7,7 @@ link to a website [npm](https://www.npmjs.com/)
 
 a library color
 ```bash
-npm i 
+npm i color
 ```
 a library left-pad
 
