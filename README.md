@@ -1,6 +1,6 @@
 # Installing libraries node
 npm is a package management system for the JavaScript programming language maintained by npm, Inc
-i will use a work environment  Visual Studio Code 
+i  used a work environment  Visual Studio Code 
 link to a website [npm](https://www.npmjs.com/)
 
 ## Installation
